@@ -25,9 +25,9 @@
       <q-toggle v-model="accept" label="ยอมรับเงื่อไขและข้อกำหนด" />
 
       <div>
-        <q-btn label="Submit" type="submit" color="primary" />
+        <q-btn label="ยืนยัน" type="submit" color="primary" />
         <q-btn
-          label="Reset"
+          label="เริ่มใหม่"
           type="reset"
           color="primary"
           flat
